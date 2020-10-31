@@ -20,5 +20,7 @@ class VehicleDemo {
 
         System.out.println("За півгодини car1 може проїхати ");
         System.out.println(distance + " км. ");
+        
+        car1= null;
     } // main(String[])
 } // VehicleDemo class
